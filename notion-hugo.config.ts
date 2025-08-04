@@ -1,7 +1,7 @@
 import { UserConfig } from "./src/config"
 
 const userConfig: UserConfig = {
-    base_url: "https://website-blog-kappa.vercel.app/",
+    base_url: "https://website-blog-leonwangg1s-projects.vercel.app/",
     mount: {
         manual: false,
         page_url: 'https://www.notion.so/Notion-Hugo-2459f65ec91180a5bdafe948cb095858?source=copy_link',
